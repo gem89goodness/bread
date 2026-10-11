@@ -535,8 +535,8 @@ footer p {
     nav ul {
         flex-direction: column;
         width: 100%;
-        padding: 1.5rem 0;
-        align-items: center;
+        padding: 1.5rem 10%;
+        align-items: start;
     }
 
     nav ul li {
